@@ -8,7 +8,7 @@ import Navigation from './Navigation';
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="App">
         <header>
           {<Header />}
