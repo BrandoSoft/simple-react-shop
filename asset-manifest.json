@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/simple-react-shop/static/css/main.a52fc577.chunk.css",
+    "main.js": "/simple-react-shop/static/js/main.bf8f0510.chunk.js",
+    "main.js.map": "/simple-react-shop/static/js/main.bf8f0510.chunk.js.map",
+    "runtime-main.js": "/simple-react-shop/static/js/runtime-main.1c33633e.js",
+    "runtime-main.js.map": "/simple-react-shop/static/js/runtime-main.1c33633e.js.map",
+    "static/js/2.41fe9134.chunk.js": "/simple-react-shop/static/js/2.41fe9134.chunk.js",
+    "static/js/2.41fe9134.chunk.js.map": "/simple-react-shop/static/js/2.41fe9134.chunk.js.map",
+    "index.html": "/simple-react-shop/index.html",
+    "precache-manifest.64958295a72900a9bcfa61a172f400ba.js": "/simple-react-shop/precache-manifest.64958295a72900a9bcfa61a172f400ba.js",
+    "service-worker.js": "/simple-react-shop/service-worker.js",
+    "static/css/main.a52fc577.chunk.css.map": "/simple-react-shop/static/css/main.a52fc577.chunk.css.map",
+    "static/js/2.41fe9134.chunk.js.LICENSE.txt": "/simple-react-shop/static/js/2.41fe9134.chunk.js.LICENSE.txt",
+    "static/media/header1.jpg": "/simple-react-shop/static/media/header1.76dc3d0f.jpg",
+    "static/media/header2.jpg": "/simple-react-shop/static/media/header2.9daad6c5.jpg",
+    "static/media/header3.jpg": "/simple-react-shop/static/media/header3.e431b5cf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c33633e.js",
+    "static/js/2.41fe9134.chunk.js",
+    "static/css/main.a52fc577.chunk.css",
+    "static/js/main.bf8f0510.chunk.js"
+  ]
+}
